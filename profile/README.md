@@ -11,5 +11,10 @@ This organization hosts all the projects developed by **T_Bot Team**. Our projec
 - Additional Projects: Various other innovative projects that support the development of our repositories.
 
 > For any issues regarding our services, please join our [Discord Support](https://discord.gg/FYzyYTX) server
-
-# Thank you for visiting!
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1><b>Thank you for visiting!</b></h1>
+    </summary>
+  </ul>
+</div>
